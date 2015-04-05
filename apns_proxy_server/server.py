@@ -4,7 +4,7 @@ import logging
 from Queue import Queue
 import traceback
 
-import simplejson as json
+import json
 import zmq
 
 from . import feedback, worker

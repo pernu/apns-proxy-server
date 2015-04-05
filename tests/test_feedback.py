@@ -6,7 +6,7 @@ Tests for apns_proxy_server.feedback
 from datetime import datetime
 
 from nose.tools import ok_, eq_
-import simplejson as json
+import json
 
 from apns_proxy_server.feedback import FeedbackProxy
 

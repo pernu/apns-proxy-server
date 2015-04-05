@@ -3,7 +3,7 @@
 import time
 
 from apns import APNs
-import simplejson as json
+import json
 
 
 class FeedbackProxy(object):
